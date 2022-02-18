@@ -31,3 +31,14 @@ We currently have three levels for each type and are working on fully fleshed ou
 - Level 1 Code Contributor token, given to community members who contributed code that has been deployed to production
 - Level 2 ...
 - Level 3 ...
+
+# FAQ
+
+#### How can I get one?
+If you have done activity that qualifies you for one of the tokens, please let us know in [Discord](https://discord.gg/kY84MkKwmk) and we will happily give you a token!
+
+#### Who controls minting? 
+Currently wilsoncusack.eth, for convenience. Eventually this will be transferred to a multisig and possibly to the control of the NFT holders themselves. 
+
+#### I have an idea for a new token type
+Feel free to make a pull request on this repo or propose it on Discord! 
