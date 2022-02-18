@@ -1,1 +1,1 @@
-# nft-pawn-shop-community-token-docs
+# Pawn Shop Community NFT Docs
