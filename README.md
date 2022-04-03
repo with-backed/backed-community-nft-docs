@@ -1,5 +1,7 @@
-# Pawn Shop Community NFT Docs
-The Pawn Shop Community gives out NFTs to recognize community members and contributors. You can [see them on OpenSea](https://opensea.io/collection/nft-pawn-shop-community-nfts).
+Note: Updated "NFT Pawn Shop" -> "Backed" but many of our tokens still say "NFT Pawn Shop"
+
+# Backed NFT Docs
+The Backed community gives out NFTs to recognize community members and contributors. You can [see them on OpenSea](https://opensea.io/collection/nft-pawn-shop-community-nfts).
 
 The [first NFT type](https://opensea.io/assets/0xb9a069f85d51cc5cf23e910d1a5fd69744e926f1/1) was given out to those who used the product on Rinkeby in fall 2021. 
 
