@@ -21,7 +21,7 @@ We currently have three levels for each type and are working on fully fleshed ou
 - Level 3 ...
 
 #### Pawn Shopper
-- Level 1 Pawn Shopper token, given to community members who attended 2+ community calls or regularly participate in Discord discussions.
+- Level 1 Pawn Shopper token, given to community members who attended 2+ community calls and regularly participate in Discord discussions.
 - Level 2 Pawn Shopper token, given to communnity members who have attended 10+ community calls or has been a weekly active participant in Discord discussions for over two months
 
 #### Design Community
