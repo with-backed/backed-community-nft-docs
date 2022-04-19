@@ -16,8 +16,8 @@ New types will be added in the future as there is need. It is expected that each
 We currently have three levels for each type and are working on fully fleshed out definitions. 
 
 #### Trusted Tester
-- Level 1 Trusted Tester token, given to community members who tried the product and gave some useful feedback
-- Level 2 Trusted Tester token, given to community members who have continually used the product and offered helpful feedback
+- Level 1 Trusted Tester token, given to community members who tried the product and gave some useful feedback that was used to make a product change or caught an important bug. 
+- Level 2 Trusted Tester token, given to community members who have continually used the product and offered helpful feedback which has resulted in several product changes. 
 - Level 3 ...
 
 #### Pawn Shopper
