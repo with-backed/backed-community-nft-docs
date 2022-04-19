@@ -1,3 +1,5 @@
+**UPDATE APRIL 19, 2022: WE HAVE PAUSED MINTING TOKENS UNTIL WE CAN MIGRATE TO A NEW COMMUNITY NFT CONTRACT**
+
 **Note** [NFT Pawn Shop is now called Backed](https://twitter.com/backed_xyz/status/1506715447051313157?s=20&t=LKYAax1NG-jViKM35Jzzbg) but many of our community NFTs still say "NFT Pawn Shop."
 
 # Backed NFT Docs
