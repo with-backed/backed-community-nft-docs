@@ -7,34 +7,46 @@ The Backed community gives out NFTs to recognize community members and contribut
 
 The [first NFT type](https://opensea.io/assets/0xb9a069f85d51cc5cf23e910d1a5fd69744e926f1/1) was given out to those who used the product on Rinkeby in fall 2021. 
 
-In February 2022, we decided on some broad categories of community NFTs going forward, and various levels for each category. The current types of NFTs are 
+In February 2022, we decided on some broad categories of community NFTs going forward, and various levels for each category. Those types of NFTs were: 
 - **Trusted Tester**, given to those who use the product and catch a bug or provide some helpful feedback.
 - **Pawn Shopper**, given to those who are active in discord or community calls.
 - **Design Community**, given to those who contribute to design conversations and contribute design assets.
 - **Code Contributor**, given to those who contribute code that is deployed to production.
 
-New types will be added in the future as there is need. It is expected that each contributor will at most get a unique token/level once, e.g. you cannot get multiple Level 1 Trusted Tester tokens.
+In June 2022, we migrated to a new Community NFT that tracks XP across three categories: Activity, Contributor, and Community, and awards them both automatically (via bots) and through a nomination process. This rubric outlines eligibility for XP rewards: 
 
-We currently have three levels for each type and are working on fully fleshed out definitions. 
+### Automatically Awarded XP
 
-#### Trusted Tester
-- Level 1 Trusted Tester token, given to community members who tried the product and gave some useful feedback that was used to make a product change or caught an important bug. 
-- Level 2 Trusted Tester token, given to community members who have continually used the product and offered helpful feedback which has resulted in several product changes. 
-- Level 3 ...
+#### Activity XP
+- As a lender, provide your first loan (+1XP for 1st, 2nd, 4th, 8th)
+- As a borrower, pay interest on your first loan (+1XP for 1st, 2nd, 4th, 8th)
 
-#### Pawn Shopper
-- Level 1 Pawn Shopper token, given to community members who attended 2+ community calls and regularly participate in Discord discussions.
-- Level 2 Pawn Shopper token, given to communnity members who have attended 10+ community calls or has been a weekly active participant in Discord discussions for over two months
+#### Contributor XP
+- Merge a PR (start in #dev on Discord)
 
-#### Design Community
-- Level 1 Design Community token, given to community members who participated in design discussions and gave helpful feedback
-- Level 2 ...
-- Level 3 ...
+#### Community XP
+- Attend your first community call, Mondays at 11AM EST
+- Achieve a 4-week streak of community calls
 
-#### Code Contributor
-- Level 1 Code Contributor token, given to community members who contributed code that has been deployed to production
-- Level 2 ...
-- Level 3 ...
+### XP Awarded via Nomination Form
+
+#### Activity XP Examples
+Nominate yourself for XP for remarkable protocol usage, such as:
+- Lend or borrow the highest loan amount ever
+- Use a Noun as collateral
+
+#### Contributor XP
+Nominate yourself for XP that help develop the protocol, such as:
+- Early-release testing and testnet transactions
+- Code reviews on Github
+- Design assets used in production
+- Contract auditing
+
+#### Community XP
+Nominate yourself for XP that add your voice to the community, such as:
+- Join Backed Discord and follow Backed on Twitter.
+- Organize a meetup at an conference
+- Quality memes
 
 # FAQ
 
