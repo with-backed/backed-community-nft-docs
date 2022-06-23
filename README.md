@@ -13,7 +13,7 @@ These actions are tracked and logged by bots, reviewed by humans every Friday, a
 
 #### Community XP
 - Attend your first community call, Mondays at 11AM EST
-- Achieve a 4-week streak of community calls
+- Addional XP with exponential decay: 2nd call, 4th call, 8th, 16th, etc.
 
 ### XP Awarded via Nomination Form
 Some XP require a nomination process, to limit bots or scams. Once you complete a task or do something noteworthy, nominate yourself (or others!) for XP using the submission form.
@@ -31,17 +31,5 @@ Nominate yourself for XP that help develop the protocol, such as:
 
 #### Community XP
 Nominate yourself for XP that add your voice to the community, such as:
-- Join Backed Discord and follow Backed on Twitter.
 - Organize a meetup at a conference
 - Quality memes
-
-# FAQ
-
-#### How can I get one?
-If you have done activity that qualifies you for one of the tokens, please let us know in [Discord](https://discord.gg/kY84MkKwmk) and we will happily give you a token!
-
-#### Who controls minting? 
-Currently wilsoncusack.eth, for convenience. Eventually this will be transferred to a multisig and possibly to the control of the NFT holders themselves. 
-
-#### I have an idea for a new token type
-Feel free to make a pull request on this repo or propose it on Discord! 
