@@ -19,8 +19,9 @@ These actions are tracked and logged by bots, reviewed by humans every Friday, a
 Some XP require a nomination process, to limit bots or scams. Once you complete a task or do something noteworthy, nominate yourself (or others!) for XP using the submission form.
 
 #### Activity XP Examples
-Nominate yourself for XP for remarkable protocol usage, such as:
-- Lend or borrow the highest loan amount ever
+Nominate yourself for XP for remarkable protocol usage for which there is no automated tracking, such as:
+- First ever loan
+- Loan with most buyouts
 
 #### Contributor XP
 Nominate yourself for XP that help develop the protocol, such as:
