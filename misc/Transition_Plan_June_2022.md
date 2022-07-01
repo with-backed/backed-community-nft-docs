@@ -9,7 +9,7 @@ This doc is to cover our plan for transition plan from previous community NFTs t
 
 Now that we have a new community NFT that serves as a single place to track all of someone's contributions, we plan to do a one time award of XP and accessories to the holders of these previous tokens.
 
-All previous token holders will give the alpha-snake accessory. All previous token holders will get on XP point in each category––Activity, Contributor, Community––for each NFT they hold. 
+All previous token holders will receive the alpha-snake accessory. All previous token holders will get one XP point in each category––Activity, Contributor, Community––for each NFT they hold. 
 
 Additionally, each Code Contributor and Design Contributor token will warrant an additional 1 Contributor XP, per token. 
 
