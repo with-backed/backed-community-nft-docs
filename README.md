@@ -8,7 +8,7 @@ The Backed community gives out NFTs to recognize community members and contribut
 
 These actions are tracked and logged by bots, reviewed by humans weekly, and the XP automatically appear on your Community NFT.
 
-<div class="content">
+<div class="content-activity">
 
 #### Activity XP
 
@@ -16,14 +16,14 @@ These actions are tracked and logged by bots, reviewed by humans weekly, and the
 - As a borrower, pay interest on your first loan
 </div>
 
-<div class="content">
+<div class="content-contributor">
 
 #### Contributor XP
 
 - Author a pull request that is merged (start in #dev on Discord)
 </div>
 
-<div class="content>
+<div class="content-community>
 
 #### Community XP
 
@@ -38,7 +38,7 @@ These actions are tracked and logged by bots, reviewed by humans weekly, and the
 
 Some XP require a nomination process, to limit bots or scams. Once you complete a task or do something noteworthy, nominate yourself (or others!) for XP using the [nomination form](https://docs.google.com/forms/d/e/1FAIpQLSd5jfpa7okOGHU6WgIhqCtg_ImndrivZtVq3-Vk5OBmhCeY-Q/viewform).
 
-<div class="content">
+<div class="content-activity">
 
 #### Activity XP Examples
 
@@ -48,7 +48,7 @@ Nominate yourself for XP for remarkable protocol usage for which there is no aut
 - Loan with most buyouts
 </div>
 
-<div class="content">
+<div class="content-contributor">
 
 #### Contributor XP
 
@@ -60,7 +60,7 @@ Nominate yourself for XP that help develop the protocol, such as:
 - Smart contract auditing
 </div>
 
-<div class="content">
+<div class="content-community">
 
 #### Community XP
 
