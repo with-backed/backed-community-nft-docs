@@ -23,13 +23,14 @@ These actions are tracked and logged by bots, reviewed by humans weekly, and the
 - Author a pull request that is merged (start in #dev on Discord)
 </div>
 
-<div class="content-community>
+<div class="content-community">
 
 #### Community XP
 
 - Attend your first community call, Mondays at 11AM EST
 - Addional XP with exponential decay: 2nd call, 4th call, 8th, 16th, etc.
 </div>
+
 </div>
 
 <div id="section-nominated-xp">
@@ -69,6 +70,7 @@ Nominate yourself for XP that add your voice to the community, such as:
 - Organize a meetup at a conference
 - Quality memes
 </div>
+
 </div>
 
 ### Accessories
