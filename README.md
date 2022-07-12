@@ -21,6 +21,7 @@ These actions are tracked and logged by bots, reviewed by humans weekly, and the
 #### Contributor XP
 
 - Author a pull request that is merged (start in #dev on Discord)
+- XP is awarded with exponential backoff with powers of 2. I.E. a user is awarded 1 Contributor XP for every 1st, 2nd, 4th, 8th, 16th, 32nd PR, etc.
 </div>
 
 <div class="content-community">
