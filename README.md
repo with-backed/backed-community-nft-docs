@@ -55,7 +55,7 @@ Nominate yourself for XP for remarkable protocol usage for which there is no aut
 
 Nominate yourself for XP that help develop the protocol, such as:
 
-- Early-release testing and testnet transactions
+- Functionality-breaking-bug reported
 - Code reviews on Github
 - Design assets used in production
 - Smart contract auditing
